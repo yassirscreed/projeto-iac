@@ -7,7 +7,7 @@ vector          TAB     80
 Teste:          MVI     R1, vector ; Primeiro elemento do vector.
                 MVI     R2, 80 ; Numero de elementos.
                 
-                MVI     R6, 4000h ; Inicializacao da pilha gvbguhvby.
+                MVI     R6, 4000h ; Inicializacao da pilha.
                 
                 JAL     atualizajogo
                 
